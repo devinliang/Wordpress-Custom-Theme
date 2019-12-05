@@ -1,0 +1,17 @@
+/*
+Theme Name: Wenzao Cafe 文藻小咖啡
+Version: 1.0
+Requires at least: 4.7
+Requires PHP: 5.2.4
+
+Description: 文藻小咖做的佈景主題...
+
+Author: Devin Liang
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+*/
+body {
+    color: green;
+}
