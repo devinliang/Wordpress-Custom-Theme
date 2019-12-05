@@ -1,3 +1,8 @@
+<!--
+git remote add origin https://github.com/devinliang/Wordpress-Custom-Theme.git
+git push -u origin master
+-->
+
 <?php get_header(); ?>
 
 <h1>Hello New</h1>
